@@ -1,0 +1,46 @@
+div{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+
+img{
+    width: 15%;
+    height: 13%;
+    padding-top: 1%;
+    padding-left: 1%;
+}
+
+nav ul li {
+	font-size: 40px;
+	text-align: center;
+	font-family: sans-serif;
+	background-color: gold;
+	border: 2px solid black;
+	letter-spacing: 0.1em;
+	width: 15.3em;
+	height: 1.5em;
+	line-height: 1.5em;
+	position: relative;
+	overflow: hidden;
+	margin: 0.5em;
+	cursor: pointer;
+}
+
+nav ul li:hover::before {
+	transform: scale(7);
+}
+
+#c{
+    height: 40px; 
+    width: 200px;
+    margin-top: 2%;
+    margin-left: 60%;
+    position: absolute;
+}

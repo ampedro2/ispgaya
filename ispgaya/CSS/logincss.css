@@ -1,0 +1,90 @@
+body{
+    background-repeat: repeat;
+    background-color: white;
+}
+
+
+
+.error{
+    color: red;
+    text-align:center;
+    font-family:Lucida Sans Unicode;
+
+}
+
+.login{
+    color: green;
+    text-align:center;
+    font-family:Lucida Sans Unicode;
+
+}
+
+a{
+    font-family:Lucida Sans Unicode;
+}
+
+#c{
+    height: 40px; 
+    width: 150px;
+    margin-top: 2%;
+    margin-left: 60%;
+    position: absolute;
+}
+
+img{
+    width: 15%;
+    height: 13%;
+    padding-top: 1%;
+    padding-left: 1%;
+}
+
+.successo{
+    text-align:center;
+}
+
+#aaa{
+    background-color: #CCCCCC;
+    height:300px;
+    width:350px;
+    margin:auto;
+    padding-top: 1px;
+    padding-left:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+}
+#div1{
+    background-color: #EEEEEE;
+    height:320px;
+    width:350px;
+    margin:auto;
+    padding-top: 1px;
+    padding-left:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#div2{
+    background-color: #EEEEEE;
+    height:380px;
+    width:350px;
+    margin:auto;
+    padding-top: 1px;
+    padding-left:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+h1{
+    text-align: center;
+    font-family:Lucida Sans Unicode;
+}
+h2{
+    font-family:Lucida Sans Unicode;
+}

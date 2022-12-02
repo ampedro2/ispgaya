@@ -1,0 +1,1 @@
+<?php header("location: Site/ispgayalogin.php"); ?>
